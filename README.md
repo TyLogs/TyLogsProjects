@@ -1,4 +1,5 @@
-Test
+# Ty Logs
+
 [Ty Logs Youtube Channel](https://www.youtube.com/channel/UCRVkUK12VKfajXxah6lCrrg) This is where all the larger, more artistically driven videos are posted.
 
 [Ty Logs TikTok](https://www.tiktok.com/@ty_logs) This is where I post most frequently, asking for input or giving more frequent updates on projects.
