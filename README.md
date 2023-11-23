@@ -4,6 +4,8 @@
 
 [Ty Logs TikTok](https://www.tiktok.com/@ty_logs) This is where I post most frequently, asking for input or giving more frequent updates on projects.
 
+#### **You can see updates and progress on my current project in the projects tab**
+
 
 This is a public billboard about what I am working on, my progress in it, and what I have planned in the future. All the resources used to make my videos are linked in their respective scripts. 
 
