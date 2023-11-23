@@ -1,10 +1,3 @@
----
-
-kanban-plugin: basic
-tags: Youtube, Job, Personal
-type: kanban
-
----
 
 ## Ideas
 
