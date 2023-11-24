@@ -7,7 +7,7 @@
 - [ ] [[Collectors Video]]
 - [ ] [[Fountain pens]]
 - [ ] [[Omni Movie Vid]]
-- [ ] [[Build a Camping Van]]
+- [ ] [[Mini Cooper Camper]]
 - [ ] [[Day spent Relaxing short film]]
 - [ ] Making/Covering a song
 - [ ] [[Hammock Podcast thing]]
