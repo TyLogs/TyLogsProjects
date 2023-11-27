@@ -1,21 +1,26 @@
+---
+
+kanban-plugin: basic
+
+---
 
 ## Ideas
 
 - [ ] [[Film Camera video]]
-- [ ] Card+Car Shelf
+- [ ] Card + Car Shelf
 - [ ] [[Killing my love Vette vid]]
 - [ ] [[Collectors Video]]
 - [ ] [[Fountain pens]]
 - [ ] [[Omni Movie Vid]]
 - [ ] [[Mini Cooper Camper]]
 - [ ] [[Day spent Relaxing short film]]
-- [ ] Making/Covering a song
-- [ ] [[Hammock Podcast thing]]
-- [ ] [[Build a Chess Set]]
+- [ ] Making/Covering A Song
+- [ ] [[Hammok Podcast Thing]]
+- [ ] [[Build A Chess Set]]
 - [ ] [[Make A Knife]]
 
 
-## Fleshing them out
+## Fleshing Them Out
 
 
 
@@ -26,10 +31,11 @@
 
 ## Completed
 
-- [ ] [[Old Electronics Video]]
-- [ ] [[Repair Sony Tape Recorder]]
-- [ ] [[Breadbox Delete]]
-- [ ] [[Desk Shelves]]
+**Complete**
+- [x] [[Old Electronics Video]]
+- [x] [[Repair Sony Tape Recorder]]
+- [x] [[Breadbox Delete]]
+- [x] [[Desk Shelves]]
 
 
 
