@@ -24,4 +24,6 @@ I like to be transparent and provide these resources so that if you want to try 
 
 **Lens** - Lumix G VARIO 58mm Zoom lens (Came with the Camera)
 
+**Microphone** - Blue Yeti Snowball
+
 Let me know If I should add anything else to this list via the comment section on my videos.
