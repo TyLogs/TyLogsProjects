@@ -1,14 +1,14 @@
 
-Plan: Build a retro gaming laptop / cyberdeck out of a old thick laptop
+Plan: Build a retro gaming laptop / cyberdeck out of a old thick laptop (Compaq LTE 286)
 
 Resources used:
 
 [How to Make a Laptop Keyboard Controller](https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/)
 Excellent resource, very in depth and has a lot of laptop keyboards already mapped.
 
-Laptop was acquired in non working order from eBay
+Laptop was acquired in non working order from eBay (Search Portable Computer, or Retro Laptop)
 
-Raspberry Pi
+Raspberry Pi (Can be acquired from many different places, pick one that suits you best)
 
 [9 Inch LCD Screen](https://www.aliexpress.us/item/2261800078283021.html?spm=a2g0o.order_detail.order_detail_item.2.1162f19ca2KyzJ&gatewayAdapt=glo2usa)
 
