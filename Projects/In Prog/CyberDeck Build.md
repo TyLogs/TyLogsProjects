@@ -22,6 +22,8 @@ Raspberry Pi (Can be acquired from many different places, pick one that suits yo
 
 [1Ft USB-C Male to USB-C Female](https://www.amazon.com/Faracent-Extension-Charging-Nintendo-Touchbar/dp/B0BX3X548D/ref=sr_1_2_sspa?crid=2ZXXK9OG7UJP5&keywords=1ft%2Busb%2Bc%2Bmale%2Bto%2Busb%2Bc%2Bfemale&qid=1701067126&sprefix=1ft%2Busbc%2Bmale%2Bto%2Busbc%2Bfemale%2Caps%2C103&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
+[USB-C 90 Degree Low Profile Adapter](https://www.amazon.com/dp/B07JGYBCT1?ref=ppx_yo2ov_dt_b_product_details&th=1)
+
 
 
 
