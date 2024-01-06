@@ -24,6 +24,8 @@ Raspberry Pi (Can be acquired from many different places, pick one that suits yo
 
 [USB-C 90 Degree Low Profile Adapter](https://www.amazon.com/dp/B07JGYBCT1?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
+[10,000 mAh Portable Power Supply for Raspberry Pi](https://vilros.com/products/10-000mah-portable-power-supply-for-raspberry-pi?variant=32002533556318&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAiA7t6sBhAiEiwAsaieYgqf-uSblatrG-8VUkN_iXVCksms6ju0sEr5465U9sWGXSgSoDGJoxoC_REQAvD_BwE)
+
 
 
 
