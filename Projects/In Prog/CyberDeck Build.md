@@ -6,7 +6,7 @@ Resources used:
 [How to Make a Laptop Keyboard Controller](https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/)
 Excellent resource, very in depth and has a lot of laptop keyboards already mapped.
 
-Laptop was acquired in non working order from eBay (Search Portable Computer, or Retro Laptop)
+Laptop was acquired in non working order from eBay (Search Portable Computer, Retro Laptop, Old Laptop, Old Mainframes)
 
 Raspberry Pi (Can be acquired from many different places, pick one that suits you best)
 
@@ -25,6 +25,16 @@ Raspberry Pi (Can be acquired from many different places, pick one that suits yo
 [USB-C 90 Degree Low Profile Adapter](https://www.amazon.com/dp/B07JGYBCT1?ref=ppx_yo2ov_dt_b_product_details&th=1)
 
 [10,000 mAh Portable Power Supply for Raspberry Pi](https://vilros.com/products/10-000mah-portable-power-supply-for-raspberry-pi?variant=32002533556318&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAiA7t6sBhAiEiwAsaieYgqf-uSblatrG-8VUkN_iXVCksms6ju0sEr5465U9sWGXSgSoDGJoxoC_REQAvD_BwE)
+
+Overall, was a fun build, even though I had to work on it between classes and college application stuff. It certainly isn't perfect, but I think that add a sort of charm to it. (Or I am completely and utterly biased because I am the one who built it)
+
+Things that didn't go exactly as planned:
+
+The Keyboard ended up not working, had to buy a tiny off the shelf one. Not the worst, but it looks a but funky
+
+Had to cut the screen case a little bit to see the whole screen. Looks pretty good except for the top right corner. Hand slipped and I cut to far.
+
+
 
 
 
