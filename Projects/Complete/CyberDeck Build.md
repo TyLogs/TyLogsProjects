@@ -34,8 +34,28 @@ The Keyboard ended up not working, had to buy a tiny off the shelf one. Not the 
 
 Had to cut the screen case a little bit to see the whole screen. Looks pretty good except for the top right corner. Hand slipped and I cut to far.
 
+#### Description
 
+Resources I used in this project are available for you to view in this GitHub Repo:
+https://github.com/TyLogs/TyLogsProjects
 
+Tiktok:
+https://www.tiktok.com/@ty_logs
+
+Give me your input and see more frequent updates on TikTok!
+
+Song Credits:
+Unsquare Dance - Dave Brubeck
+https://www.youtube.com/watch?v=lbdEzRfbeH4
+
+Camptown Races - Dave Brubeck
+https://www.youtube.com/watch?v=MG1c-nlIT6A&list=PLu8bQxR4Js4In0bOWFVbazxXQP_v7Pi7K&index=4
+
+Bossa Nova U.S.A - Dave Brubeck
+https://www.youtube.com/watch?v=Bxhf12wOHos&list=PLu8bQxR4Js4In0bOWFVbazxXQP_v7Pi7K&index=7
+
+シュリンプ・ダンス - 鈴木弘  (Shrimp Dance - Hiroshi Suzuki)
+https://www.youtube.com/watch?v=AGFeW3HOjZE
 
 
 
