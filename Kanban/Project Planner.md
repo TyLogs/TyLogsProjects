@@ -7,10 +7,8 @@ kanban-plugin: basic
 ## Ideas
 
 - [ ] [[Film Camera video]]
-- [ ] Card + Car Shelf
 - [ ] [[Killing my love Vette vid]]
 - [ ] [[Collectors Video]]
-- [ ] [[Fountain pens]]
 - [ ] [[Omni Movie Vid]]
 - [ ] [[Mini Cooper Camper]]
 - [ ] [[Day spent Relaxing short film]]
@@ -26,7 +24,6 @@ kanban-plugin: basic
 
 ## Acting
 
-- [ ] [[CyberDeck Build]]
 
 
 ## Completed
@@ -36,6 +33,7 @@ kanban-plugin: basic
 - [x] [[Repair Sony Tape Recorder]]
 - [x] [[Breadbox Delete]]
 - [x] [[Desk Shelves]]
+- [x] [[CyberDeck Build]]
 
 
 

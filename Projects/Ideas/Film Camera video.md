@@ -1,5 +1,9 @@
-Fujica
+The uncertainty of film is cool
+Showcase Cameras
+Showcase photos taken
 
-Kodak
+Fujica Film Camera
+
+Kodak Retina Film Camera
 
 
