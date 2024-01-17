@@ -11,8 +11,8 @@ kanban-plugin: basic
 - [ ] [[Collectors Video]]
 - [ ] [[Omni Movie Vid]]
 - [ ] [[Mini Cooper Camper]]
-- [ ] [[Day spent Relaxing short film]]
 - [ ] Making/Covering A Song
+- [ ] [[Day spent Relaxing short film]]
 - [ ] [[Hammok Podcast Thing]]
 - [ ] [[Build A Chess Set]]
 - [ ] [[Make A Knife]]
