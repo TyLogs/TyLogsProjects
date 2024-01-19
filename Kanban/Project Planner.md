@@ -10,16 +10,20 @@ kanban-plugin: basic
 - [ ] [[Killing my love Vette vid]]
 - [ ] [[Collectors Video]]
 - [ ] [[Omni Movie Vid]]
-- [ ] [[Mini Cooper Camper]]
 - [ ] Making/Covering A Song
 - [ ] [[Day spent Relaxing short film]]
 - [ ] [[Hammok Podcast Thing]]
 - [ ] [[Build A Chess Set]]
 - [ ] [[Make A Knife]]
+- [ ] [[My Audio Setup]]
+- [ ] [[Lime Creek on VHS]]
+- [ ] [[All My Fella Intro Proj]]
 
 
 ## Fleshing Them Out
 
+- [ ] [[Mini Cooper Camper]]
+- [ ] Corvette Break Upgrades
 
 
 ## Acting
