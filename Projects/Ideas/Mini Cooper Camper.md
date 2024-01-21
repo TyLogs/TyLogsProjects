@@ -1,9 +1,12 @@
 
 Convert my 2013 Mini Cooper Clubman into a tiny camping vehicle
 
+- Must be removable (Non Permanent)
+- Must be CHEAP, EASY, and ACCESSABLE
+- 
 ## Current Plan
 
-- Get a Roof Rack
+- Get a Roof Rack 
 - Build platform so I can sleep in it
 - Window Blocker things
 - Figure out how to camp in it

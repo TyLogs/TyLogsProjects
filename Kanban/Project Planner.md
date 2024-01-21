@@ -16,7 +16,6 @@ kanban-plugin: basic
 - [ ] [[Build A Chess Set]]
 - [ ] [[Make A Knife]]
 - [ ] [[My Audio Setup]]
-- [ ] [[Lime Creek on VHS]]
 - [ ] [[All My Fella Intro Proj]]
 
 
@@ -24,6 +23,7 @@ kanban-plugin: basic
 
 - [ ] [[Mini Cooper Camper]]
 - [ ] Corvette Break Upgrades
+- [ ] [[Lime Creek on VHS]]
 
 
 ## Acting
