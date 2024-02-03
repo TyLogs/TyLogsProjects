@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## Ideas
 
 - [ ] [[Film Camera video]]
-- [ ] [[Killing my love Vette vid]]
+- [ ] [[Eurobeat Vette vid]]
 - [ ] [[Collectors Video]]
 - [ ] [[Omni Movie Vid]]
 - [ ] Making/Covering A Song
