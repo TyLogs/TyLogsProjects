@@ -6,7 +6,7 @@ Convert my 2013 Mini Cooper Clubman into a tiny camping vehicle
 - 
 ## Current Plan
 
-- Get a Roof Rack 
+- Get a Roof Rack (Optional)
 - Build platform so I can sleep in it
 - Window Blocker things
 - Figure out how to camp in it
@@ -38,3 +38,35 @@ First we have the half that we are not sleeping on in the trunk area, where we c
 There will be space under the platform that we will build, where we can get pretty good access to from the Do
 
 And of course we have the passenger footwell, or at least what's left of it.
+
+
+
+##### Designing 
+
+- Need to take inventory of the camping gear I have, shape, size, etc, and design shelves for the back around that. 
+- Print out photos and draw directly on them with a camera filming
+
+###### Camping list
+- Sleeping pad
+- Sleeping Bag
+- Pillow
+- Headlamps/Flashlights/lights/lantern + Batteries
+- Camp Table
+- Cookware (Cook Pots/pans, Eating utensils, Knife, Mug/Cup, Cutting board, Soap, Trash bags, Towels)
+- Cooler for Food
+- Water Bottle
+- First-Aid Kit
+- Fire Supplies
+- Chair
+- Material to cover windows (Home Depot) 
+- Hammock
+- String (To Dry cloths if needed)
+- Multitool
+- Duct tape
+- Mallet
+- Axe
+- Navigational Tools (Depends on how remote Campsite is)
+- Toilet Paper
+- Toiletries
+- Sunscreen
+- ******
