@@ -4,6 +4,7 @@ Getting my car ready for the RADwood Festival.
 - Diagnose and Fix exhaust rattle
 - Touch up paint
 - Replace Sun Visors
+- Fix Door Panels
 - Exterior wash and Interior clean (Shiny Car stuff)
 - Clean engine bay
 
