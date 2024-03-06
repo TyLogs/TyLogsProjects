@@ -17,17 +17,19 @@ kanban-plugin: basic
 - [ ] [[Make A Knife]]
 - [ ] [[My Audio Setup]]
 - [ ] [[All My Fella Intro Proj]]
+- [ ] [[Commonplace Book]]
 
 
 ## Fleshing Them Out
 
-- [ ] [[Mini Cooper Camper]]
 - [ ] Corvette Break Upgrades
 - [ ] [[Lime Creek on VHS]]
+- [ ] [[RADwood Austin]]
 
 
 ## Acting
 
+- [ ] [[Mini Cooper Camper]]
 
 
 ## Completed

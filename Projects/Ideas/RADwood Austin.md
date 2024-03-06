@@ -1,3 +1,5 @@
+Possible Intro idea: Putting on A Cassette Tape (Press all the buttons and make it cool)
+
 Getting my car ready for the RADwood Festival.
 
 - Break Rotors and Pads
