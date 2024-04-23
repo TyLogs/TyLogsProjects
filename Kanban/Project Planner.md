@@ -18,6 +18,7 @@ kanban-plugin: basic
 - [ ] [[My Audio Setup]]
 - [ ] [[All My Fella Intro Proj]]
 - [ ] [[Commonplace Book]]
+- [ ] [[Suburbia]]
 
 
 ## Fleshing Them Out
