@@ -1,3 +1,11 @@
+## Ended up not liking this video, changing it up a bit
+
+It's been 3 months, what are my subscribers gonna think when they see this?
+I hate the video I've been working on, so much effort, wasted!
+I'm a failure!
+
+
+
 
 Convert my 2013 Mini Cooper Clubman into a tiny camping vehicle
 
@@ -70,3 +78,6 @@ And of course we have the passenger footwell, or at least what's left of it.
 - Toiletries
 - Sunscreen
 - ******
+
+
+

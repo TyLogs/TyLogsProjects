@@ -25,12 +25,12 @@ kanban-plugin: basic
 
 - [ ] Corvette Break Upgrades
 - [ ] [[Lime Creek on VHS]]
-- [ ] [[RADwood Austin]]
 
 
 ## Acting
 
 - [ ] [[Mini Cooper Camper]]
+- [ ] [[RADwood Austin]]
 
 
 ## Completed
