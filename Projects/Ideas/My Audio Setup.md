@@ -20,7 +20,7 @@ According to my research, there were two things that made me a "fake" Hi-Fi enth
 2. Equipment Bottle-necking
 Spotify, is NOT the Hi-Fi enthusiasts pick for a streaming service. Most Hi-Fi people recommend Apple Music or Amazon Music for streaming purposes, as both services offer lossless audio for compatible music.
 
-Besides my proffered streaming service not being the service of choice for Hi-Fi enthusiast, I am also limited by the quality of my headphones and speakers. You can have the largest, most detailed, highest quality audio file on the planet, but if you are using cheap headphones or earbuds, its not gonna matter. 
+Besides my preferred streaming service not being the service of choice for Hi-Fi enthusiast, I am also limited by the quality of my headphones and speakers. You can have the largest, most detailed, highest quality audio file on the planet, but if you are using cheap headphones or earbuds, its not gonna matter. 
 
 However, I do not plan on being a super particular, die hard Hi-Fi audio enthusiast, for a number of reasons, my main one being that equipment can get very expensive. A lot of people don't realize that it's okay to be a surface level enjoyer of something, and it doesn't mean you are a "fake fan" or anything like that. People have access to different resources and things, and if the passion is there, then that's all that matters. 
 
