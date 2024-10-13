@@ -1,0 +1,1 @@
+Set up hammock's with someone else, sit down, and have a chat for like 15-20 mins. Preferably in a scenic location, make it cinematic.

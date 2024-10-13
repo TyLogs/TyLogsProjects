@@ -1,0 +1,1 @@
+Going through the process of acquiring hardware and setting up my own/families home server, plus talking about what I would use it for and some of its features.

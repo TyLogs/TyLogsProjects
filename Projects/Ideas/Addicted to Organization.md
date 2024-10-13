@@ -1,0 +1,1 @@
+Phenomenon where someone watches large quantities of organizational, self optimization, or self help video, as a means of procrastinating what they actually need to be doing. By making it feel like they are "Preparing" their actions feel useful, and are not looked on negatively, but will ultimately have a negative impact.

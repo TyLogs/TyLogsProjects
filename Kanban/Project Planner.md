@@ -15,22 +15,28 @@ kanban-plugin: basic
 - [ ] [[Hammok Podcast Thing]]
 - [ ] [[Build A Chess Set]]
 - [ ] [[Make A Knife]]
-- [ ] [[My Audio Setup]]
 - [ ] [[All My Fella Intro Proj]]
 - [ ] [[Commonplace Book]]
 - [ ] [[Suburbia]]
+- [ ] [[Lime Creek on VHS]]
+- [ ] [[Linux Home Server]]
+- [ ] [[Addicted to Organization]]
+- [ ] [[Napoleon Dynamite Parody]]
+- [ ] [[Mystery VHS Tapes]]
+- [ ] [[Make Picture Frames]]
+- [ ] [[Daryl Camper]]
 
 
 ## Fleshing Them Out
 
-- [ ] Corvette Break Upgrades
-- [ ] [[Lime Creek on VHS]]
+- [ ] [[My Audio Setup]]
+- [ ] [[Sony Mavica FD-87]]
+- [ ] [[Night Runners Prolouge]]
+- [ ] [[Junk Sale Audio Equipment]]
 
 
 ## Acting
 
-- [ ] [[Mini Cooper Camper]]
-- [ ] [[RADwood Austin]]
 
 
 ## Completed
@@ -41,6 +47,9 @@ kanban-plugin: basic
 - [x] [[Breadbox Delete]]
 - [x] [[Desk Shelves]]
 - [x] [[CyberDeck Build]]
+- [x] [[Mini Cooper Camper]]
+- [x] Corvette Break Upgrades
+- [x] [[RADwood Austin]]
 
 
 
