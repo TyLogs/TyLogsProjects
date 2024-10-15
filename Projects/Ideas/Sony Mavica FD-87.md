@@ -21,8 +21,27 @@ Sony Mavica FD-87 Camera review
 
 #### Script
 
+**Story**
+Picture this: You just started college, and as you go through this new experience you realize something.
+"I want to take pictures" 
+Which begs the next question
+"How can I start taking pictures?" and it leads you down a rabbit hole that sounds something like this...
+"You already have a nice camera"
+"**Yeah, but its quite bulky and I don't want to be carrying my big expensive camera around my college campus**"
+"Your phone has a great camera, and it's small. Why don't you use that"
+"**I'm actively trying to use my phone less as of recent, the last thing I need is an excuse to take it out again.**"
+"Alright, you brought a neat little pocket-film camera with you, You could use that!"
+"**I could, but I would have to buy film, AND pay for it to be developed, and the film that takes is hard to get developed. I've had stores flat out refuse to deve-**"
+"Alright I get it, you want something that has a smaller form factor and won't break the bank so you can feel comfortable carrying it around campus, and digital so that you don't have to pay to have film developed"
+"**Exactly**"
+"You do know those early y2k digital cameras are quite popular right now right? so getting a decent one at a decent price is going to be a bit tough right?"
+"**Really?**"
+"Yeah"
+"**Well shit-**"
+Montage of camera plays
+
 **The Camera**
-This is a Sony Mavica FD87. Released in 2001, it was the fourth generation of the **Mavica** digital family to store its images on a 3.5" Floppy Disk. (We'll get to that later).
+This is a Sony Mavica FD87. Released in 2001, it was the fourth generation of the Mavica digital family to store its images on a 3.5" Floppy Disk. (We'll get to that later).
 **Features**
 First of all, hard plastic body, and given that it's been around for 23 years at this point, it's in remarkable condition. It's a very unique looking camera, you'd be hard pressed to find someone carrying around a similar camera in your day to day life.
 The Plastic construction allows for it to be pretty reliable for day to day use. And, as an added bonus, all the visible screws are Philips heads, with small arrows telling you how to take it apart. Talk about right to repair right? (Mention the zoom switch, and flash as well)
@@ -35,6 +54,7 @@ If you hit up on the selector, it brings up a menu with plenty of options and am
 
 There are some drawbacks though, to buying a 20 dollar camera off of ebay. For 1, the resolution is low, which I don't see as a bad thing, but it is something to keep in mind. second, although in my mind this makes it cooler, it does store its images on Floppy disks, allowing for anywhere between 6-10 photos per disk. That's less than you can get on an average film roll. Again, I see this as a positive, but I've always been a glass half full type of guy.
 
+**Conclusion**
 Undoubtedly, this camera has a certain charm to it that I absolutely love. From loading in the floppy disks, the low resolution and little red dates at the bottom of the camera, beeps and boops as you navigate the menu, I think are wonderful. this, combined with its decently small form factor, and low quantity of images, it gives a really great budget alternative to a film camera, given that the camera, Floppy disk adapter, and floppy disks are all one time purchases (Usually, floppy disks are notoriously hit and miss with there reliability, but you still would be buying them less that film) for a college student like me, it makes it a pretty awesome gadget to have around.
 
 
